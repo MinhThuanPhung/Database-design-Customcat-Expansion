@@ -217,6 +217,9 @@ Created:
 
 # Final Enterprise Data Model
 
+<img width="1657" height="1818" alt="Customcat Enterprice Data Model" src="https://github.com/user-attachments/assets/f7eaa123-b9aa-4bc6-b4be-339dcfd931a4" />
+
+
 The final database design integrates:
 
 - Sales Management
