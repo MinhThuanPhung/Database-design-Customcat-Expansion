@@ -25,6 +25,7 @@ Customer complaints and order issues were managed through emails without a centr
 
 Management could not easily generate operational reports such as issue trends, branch performance, refund statistics, or employee productivity metrics.
 
+
 ---
 
 ## Database Objectives
